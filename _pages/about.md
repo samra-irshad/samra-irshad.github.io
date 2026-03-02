@@ -27,6 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a 4th-year PhD candidate at Kyung Hee University, South Korea. My research focuses on Adversarial Learning, AI Safety, and Robustness. I am interested in identifying and modeling novel real-world and digital scenarios that expose vulnerabilities in deployed AI systems. In particular, I am investigating the security implications of deploying AI models in real-world settings and developing algorithms that exploit the attack surface introduced by their deployment.
-
-#Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and ##[Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or #just disable all of them.
+I am a 4th-year PhD candidate at Kyung Hee University, South Korea. My research focuses on Adversarial Learning, AI Safety, and Robustness. I am interested in identifying and modeling novel real-world–inspired scenarios in which deployed AI systems may be susceptible to failure. In particular, my research focuses on understanding the security implications of deploying large language models (LLMs), multimodal large language models (MLLMs), and generative models, and on developing threat models that systematically exploit the attack surfaces introduced by these deployment settings.
