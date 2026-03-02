@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://samra-irshad.github.io/sitemap.xml
