@@ -10,9 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>samra@khu.ac.kr</p>
-    <p>1732, Deogyeong-daero, Giheung-gu, Yongin-si</p>
-    <p>Gyeonggi-do 17104, Republic of Korea.</p>
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
