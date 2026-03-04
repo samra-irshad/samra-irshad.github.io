@@ -13,9 +13,10 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 professional_activities: |
   **Conference Reviewer**
-  - MICCAI 2020, 2022 (Outstanding Reviewer Honourable Mention), 2023, 2025
+  - MICCAI Main Conference 2020, 2022 (Outstanding Reviewer Honourable Mention), 2023, 2025
   - MICCAI ASMUS Workshop 2024 (International Workshop on Advances in Simplifying Medical Ultrasound)
   - MICCAI Student Board EMERGE Workshop 2024
+  - NeurIPS Main Conference 2024
   - NeurIPS MINT Workshop 2024 (Workshop on Foundation Model Interventions)
   - NeurIPS AIM-FM Workshop 2024 (Advancements In Medical Foundation Models: Explainability, Robustness, Security, and Beyond)
   - IJCAI Workshop 2021 (Workshop on Weakly Supervised Representation Learning)
